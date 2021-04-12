@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>MI PRIMER PAGINA EN REPOSITORIO</title>
+</head>
+<body bgcolor="purple"  text="yellow">
+<center><img src="proyecto\tools\dino.jpg" width="400"
+	height="}41" align="rigth"></center>
+
+<h1 align="center">Curriculum vitae</h1>
+<h2 align="center">Zabdi Daniela Marroquín Cuches</h2>
+<h3 align="center">4to secretariado bilingue</h3>
+<h6 align="center">8va calle 3-12 zona5, Villa Nueva tel. 1212142 emal. zabdi32@gmail.com</h6>
+
+</body>
+</html>
+
